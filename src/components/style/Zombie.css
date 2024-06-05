@@ -1,0 +1,217 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1350px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+body {
+  background: rgb(27, 27, 27);
+}
+
+.onlineImg {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.onlineImg img {
+  width: 1445px;
+}
+
+.onlineText {
+  color: white;
+  position: absolute;
+  margin-top: -350px;
+  margin-left: 140px;
+}
+
+.game {
+  background: rgb(212, 1, 1);
+  width: 130px;
+  height: 30px;
+  margin-left: 440px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+}
+.game p {
+  font-size: 18px;
+}
+
+.game2 {
+  margin-left: 50px;
+}
+
+.game2 h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 43px;
+  margin-top: 20px;
+}
+
+.game2 h4 {
+  text-align: center;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-left: 40px;
+  font-size: 17px;
+  width: 800px;
+}
+
+.game2 button {
+  width: 250px;
+  height: 45px;
+  margin-left: 320px;
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* ///////////////////////////////////////// */
+
+.plt {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  font-size: 70px;
+  color: red;
+  background: none;
+  border: none;
+  margin-top: -200px;
+  margin-left: -50px;
+}
+
+.nomerTriler img {
+  width: 650px;
+  margin-top: 20px;
+  border: solid red 2px;
+}
+
+.Hh1 {
+  padding-top: 70px;
+}
+
+.nH1 {
+  color: white;
+  font-size: 18px;
+  width: 980px;
+  font-weight: 400;
+  margin-left: 170px;
+  padding: 30px;
+}
+
+.nomer2 {
+  text-align: center;
+}
+
+#nomer2 {
+  height: 700px;
+  /* background: yellow; */
+}
+
+.zm {
+  width: 1450px;
+  height: 1140px;
+  margin-top: -190px;
+}
+
+.zombitext {
+  width: 530px;
+  height: 480px;
+  background: black;
+  position: absolute;
+  margin-top: -750px;
+  margin-left: 650px;
+  color: white;
+  border: solid blueviolet 2px;
+  padding: 30px;
+}
+
+.zombitext p {
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+#battle {
+  background: black;
+  color: white;
+  height: 900px;
+}
+
+.b-block {
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  padding-top: 50px;
+}
+
+.b-img img {
+  width: 610px;
+}
+
+.b-text h1 {
+  font-size: 29px;
+  width: 550px;
+}
+.b-text p {
+  font-size: 16px;
+  width: 490px;
+  padding-top: 20px;
+}
+.game222 h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-left: -160px;
+}
+
+.game222 h4 {
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  margin-left: -150px;
+}
+
+.game222 {
+  color: white;
+  text-align: start;
+  width: 1200px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.game222 button {
+  margin-left: 400px;
+  cursor: pointer;
+  border: none;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.treyl222 {
+  margin-top: 150px;
+}
+
+.click2 {
+  width: 30px;
+  height: 30px;
+  font-size: 30px;
+  background: rgba(0, 0, 0, 0);
+  color: white;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  margin-left: -400px;
+  margin-top: -30px;
+}

@@ -1,0 +1,29 @@
+.psbox {
+  width: 400px;
+  height: 300px;
+  background: rgb(56, 56, 56);
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-top: 50px;
+}
+
+.psbox p {
+  margin-top: 10px;
+}
+.psblok {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+#psblok {
+  margin-top: 100px;
+}
+
+.psbloktext {
+  text-align: center;
+  font-size: 39px;
+  color: white;
+}

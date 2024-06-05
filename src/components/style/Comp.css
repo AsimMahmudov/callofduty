@@ -1,0 +1,39 @@
+#comp {
+  background: rgb(27, 27, 27);
+  height: 800px;
+}
+.comp img {
+  max-width: 1350px;
+  width: 1200px;
+}
+
+.comp {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.comptext {
+  margin-top: -350px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.comptext h1 {
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.comptext button {
+  width: 280px;
+  height: 50px;
+  font-size: 17px;
+  font-weight: 900;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+}

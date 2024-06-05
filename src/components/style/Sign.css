@@ -1,0 +1,52 @@
+.sign {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  flex-direction: column;
+}
+
+#sign {
+  background: rgb(27, 27, 27);
+}
+.bloks img {
+  margin-left: 50px;
+  width: 200px;
+}
+.bloks {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  /* background: blue; */
+  color: white;
+  width: 300px;
+  height: 600px;
+  gap: 15px;
+  margin-top: -550px;
+  margin-left: -400px;
+  text-align: center;
+}
+.bloks input {
+  height: 40px;
+  background: rgb(65, 65, 65);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding: 10px;
+}
+.bloks button {
+  height: 40px;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  background: red;
+  color: white;
+  font-size: 15px;
+}
+
+.bloks button:hover {
+  border: solid rgb(255, 255, 255) 2px;
+}
+.bloks h5 {
+  text-align: start;
+}

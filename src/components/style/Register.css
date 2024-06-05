@@ -1,0 +1,72 @@
+#register {
+  background: rgb(27, 27, 27);
+}
+.register img {
+  max-width: 1350px;
+  width: 1200px;
+}
+
+.register {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.reg2 img {
+  width: 250px;
+}
+.reg2 {
+  color: white;
+  text-align: center;
+  margin-top: -130px;
+}
+.red2text {
+  margin-top: 50px;
+  display: flex;
+  gap: 20px;
+}
+.ee {
+  width: 180px;
+  height: 2px;
+  background: red;
+  margin-top: 20px;
+}
+
+#regpl {
+  color: white;
+  height: 280px;
+  background: rgb(27, 27, 27);
+}
+
+.regpl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 100px; */
+}
+
+.regpltext {
+  width: 600px;
+  height: 200px;
+  background: rgb(71, 71, 71);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  text-align: start;
+  margin-top: 100px;
+}
+.regpltext a {
+  font-size: 15px;
+  margin-top: 5px;
+  margin-left: -400px;
+}
+.regplimg img {
+  width: 303px;
+  margin-top: 105px;
+}
+.regp {
+  text-align: start;
+  margin-left: 200px;
+  margin-top: 50px;
+}

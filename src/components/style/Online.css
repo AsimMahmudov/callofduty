@@ -1,0 +1,272 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1350px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.onlineImg img {
+  width: 1280px;
+  margin-left: 20px;
+}
+
+.onlineImg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.onlineText {
+  color: white;
+  position: absolute;
+  margin-top: -400px;
+  margin-left: 140px;
+}
+
+.game {
+  background: rgb(212, 1, 1);
+  width: 200px;
+  height: 30px;
+  margin-left: 430px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+.game p {
+  font-size: 18px;
+}
+
+.game22 h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 37px;
+  margin-top: 20px;
+  margin-left: -205px;
+}
+
+.game22 h4 {
+  text-align: center;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-left: -90px;
+  font-size: 15px;
+}
+
+.game22 button {
+  width: 250px;
+  height: 45px;
+  margin-left: 380px;
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.game2 h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 37px;
+  margin-top: 20px;
+  margin-left: -85px;
+}
+
+.game2 h4 {
+  text-align: center;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-left: 40px;
+  font-size: 15px;
+}
+
+.game2 button {
+  width: 250px;
+  height: 45px;
+  margin-left: 390px;
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.plt {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  font-size: 70px;
+  color: red;
+  background: none;
+  border: none;
+  margin-top: -200px;
+  margin-left: -50px;
+}
+
+.nomerTriler img {
+  width: 500px;
+  margin-top: 50px;
+  border: solid red;
+}
+
+.nomer2 h1 {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  width: 800px;
+  font-weight: 300;
+  margin-left: 250px;
+  padding: 30px;
+}
+
+.nomer2 {
+  text-align: center;
+}
+
+.hh {
+  color: white;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.hhp {
+  color: white;
+  padding: 20px;
+}
+
+#nomer2 {
+  background-image: url("../../image/bg-img.png");
+  height: 500px;
+  /* box-shadow: 1px 1px 77px 15px rgb(19, 19, 19) inset; */
+}
+
+#nomer3 {
+  background-image: url("../../image/Rectangle_336.png");
+  height: 350px;
+}
+
+#nomer33 {
+  background-image: url("../../image/Rectangle_336.png");
+  height: 590px;
+}
+
+.nomer3 h1 {
+  color: white;
+  text-align: center;
+  font-size: 45px;
+}
+
+.nomer3 p {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.nomer3 button {
+  width: 200px;
+  height: 40px;
+  background: white;
+  text-align: center;
+  color: black;
+  font-weight: 400;
+}
+
+.nomer3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 120px;
+  gap: 20px;
+}
+
+#nomer4 {
+  background-image: url("../../image/bg-img.png");
+
+  height: 1850px;
+}
+
+.nblog img {
+  width: 600px;
+}
+
+.nblog {
+  display: flex;
+  color: white;
+  padding-top: 70px;
+  gap: 140px;
+  margin-top: 50px;
+}
+
+.nbox p {
+  width: 480px;
+  padding-top: 30px;
+  font-family: sans-serif;
+}
+
+.nbox {
+  padding-top: 60px;
+}
+
+.nomerblock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nomer4 {
+  margin: 0 auto;
+}
+
+.nomer4text h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 37px;
+  color: white;
+}
+.nomer4text p {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 15px;
+  color: white;
+}
+
+.nomer4text {
+  padding-top: 130px;
+}
+
+.nom5block {
+  display: flex;
+  gap: 40px;
+  margin-top: 50px;
+}
+
+.num5box img {
+  width: 635px;
+}
+
+.num5box h1 {
+  padding-top: 40px;
+  color: white;
+  font-weight: 900;
+  font-size: 27px;
+}
+
+.num5box p {
+  font-size: 17px;
+  color: white;
+  margin-top: 20px;
+  width: 576px;
+  font-weight: 450;
+}
+
+.nomh1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 37px;
+  margin-top: 100px;
+  color: white;
+  /* margin-left: 55px; */
+}
